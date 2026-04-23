@@ -30,7 +30,7 @@ server:
   port: 8083
 
 custom:
-  message: hello from git server Test 1
+  message: hello from git server Test 2
 
   
       
